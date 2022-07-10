@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.3](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.2.2...@pi-react/components@0.2.3) (2022-07-10)
+
+
+### Bug Fixes
+
+* imports of react ([901ea2d](https://github.com/AndreMRego/monorepo/commit/901ea2d6175e06d5fe3d7adb481c0f66a22bf7cd))
+
+
+
+
+
 ## [0.2.2](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.2.1...@pi-react/components@0.2.2) (2022-07-10)
 
 
