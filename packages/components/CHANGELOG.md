@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.5](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.2.4...@pi-react/components@0.2.5) (2022-07-10)
+
+
+### Bug Fixes
+
+* add external props ([8c1dbd3](https://github.com/AndreMRego/monorepo/commit/8c1dbd30ceb16c45e15e1a482bd1cbb642750c93))
+
+
+
+
+
 ## [0.2.4](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.2.3...@pi-react/components@0.2.4) (2022-07-10)
 
 
