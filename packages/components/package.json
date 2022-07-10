@@ -16,5 +16,15 @@
   "publishConfig": {
     "access": "public"
   },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.5"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.5"
+  },
   "gitHead": "cfe7abdc941f0d735c1cc5efb36b37183e2852f5"
 }
