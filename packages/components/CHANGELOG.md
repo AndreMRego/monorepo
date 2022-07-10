@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.2.0...@pi-react/components@0.2.1) (2022-07-10)
+
+
+### Bug Fixes
+
+* remove background color ([9be3c2f](https://github.com/AndreMRego/monorepo/commit/9be3c2f6fe5bafbd62f37a130e73cd5db3cc9935))
+
+
+
+
+
 # [0.2.0](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.1.0...@pi-react/components@0.2.0) (2022-07-10)
 
 
