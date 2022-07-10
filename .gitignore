@@ -4,3 +4,4 @@
 .jest-*
 dist
 node_modules
+*.log
