@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.3](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.2.3...@pi-react/components@0.2.3) (2022-07-10)
+
+
+### Bug Fixes
+
+* add babel config ([a9034e2](https://github.com/AndreMRego/monorepo/commit/a9034e26ce7ae9dd9f3c5b64248bfaf0cc2ac9c6))
+
+
+
+
+
 ## [0.2.3](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.2.2...@pi-react/components@0.2.3) (2022-07-10)
 
 
