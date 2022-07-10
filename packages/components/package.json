@@ -1,6 +1,6 @@
 {
   "name": "@pi-react/components",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A components lib",
   "author": "Andre Rego <andremregodev@gmail.com>",
   "license": "MIT",
@@ -13,6 +13,8 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "publishConfig": {"access": "public"},
+  "publishConfig": {
+    "access": "public"
+  },
   "gitHead": "59031b79eb57401d4082a52b52f917a5b5cae7a1"
 }

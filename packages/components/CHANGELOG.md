@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.1.0...@pi-react/components@0.2.0) (2022-07-10)
+
+
+### Features
+
+* Add background color to button ([ace1901](https://github.com/AndreMRego/monorepo/commit/ace1901c3cb2bbd40a0d44b0f9bd44838d6f05ab))
+
+
+
+
+
 # 0.1.0 (2022-07-10)
 
 
