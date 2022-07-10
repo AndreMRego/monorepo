@@ -5,6 +5,7 @@ import typescript from '@rollup/plugin-typescript';
 import { terser } from 'rollup-plugin-terser';
 import dts from 'rollup-plugin-dts';
 import path from 'path';
+import babel from "@rollup/plugin-babel";
 
 const extensions =  ['.ts', '.tsx'];
 
@@ -22,6 +23,12 @@ const plugins = [
     include: /node_modules/,
   }),
   terser(),
+  babel({
+    extensions,
+    exclude: ["node_modules/**"],
+    babelHelpers: "bundled",
+    babelrc: true,
+  }),
 ];
 
 const formats = [
