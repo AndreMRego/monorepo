@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.2](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.2.1...@pi-react/components@0.2.2) (2022-07-10)
+
+
+### Bug Fixes
+
+* update button props ([0798461](https://github.com/AndreMRego/monorepo/commit/0798461d4a5b04b3dcd778e7276d272e271153ec))
+
+
+
+
+
 ## [0.2.1](https://github.com/AndreMRego/monorepo/compare/@pi-react/components@0.2.0...@pi-react/components@0.2.1) (2022-07-10)
 
 
